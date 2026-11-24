@@ -80,6 +80,12 @@ gemini extensions install https://github.com/goalrace/goalrace-mcp
 
 [`skills/find-a-race`](skills/find-a-race/SKILL.md) turns a request like "trail races over 50k in the Alps next summer" into the right search, and opens the race you pick.
 
+## What it connects to
+
+- **Network:** one address, `https://mcp.goalrace.com/mcp`, our hosted server. The plugin files hold nothing else: no scripts, no hooks, no command-line tools, nothing runs on your machine.
+- **Credentials:** none to search. Saving races and using the calendar ask for a free Goal Race account through OAuth sign-in (the assistant opens our sign-in page; it never sees your password).
+- **Data:** see https://www.goalrace.com/privacy. Data is stored in the EU.
+
 ## Links
 
 - Setup guide: https://www.goalrace.com/mcp
