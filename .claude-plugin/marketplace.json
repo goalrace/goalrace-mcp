@@ -1,0 +1,17 @@
+{
+  "name": "goalrace",
+  "description": "Goal Race: find a race and plan the training for it.",
+  "owner": {
+    "name": "Goal Race",
+    "email": "support@goalrace.com",
+    "url": "https://www.goalrace.com"
+  },
+  "plugins": [
+    {
+      "name": "goal-race",
+      "source": "./",
+      "description": "Search trail, obstacle and HYROX-style races with no account. Sign in to save them, plan your training and log each session.",
+      "category": "sports"
+    }
+  ]
+}

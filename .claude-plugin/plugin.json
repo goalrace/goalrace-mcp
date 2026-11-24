@@ -1,0 +1,29 @@
+{
+  "name": "goal-race",
+  "displayName": "Goal Race",
+  "version": "1.0.0",
+  "description": "Search trail, obstacle and HYROX-style races with no account. Sign in to save them, plan your training and log each session.",
+  "author": {
+    "name": "Goal Race",
+    "email": "support@goalrace.com",
+    "url": "https://www.goalrace.com"
+  },
+  "homepage": "https://www.goalrace.com/mcp",
+  "repository": "https://github.com/goalrace/goalrace-mcp",
+  "license": "MIT",
+  "keywords": [
+    "goal race",
+    "goalrace",
+    "race calendar",
+    "obstacle course race",
+    "hyrox",
+    "trail race",
+    "race finder",
+    "training plan"
+  ],
+  "icon": "./icon.png",
+  "documentationUrl": "https://www.goalrace.com/docs",
+  "supportUrl": "https://www.goalrace.com/mcp",
+  "privacyPolicyUrl": "https://www.goalrace.com/privacy",
+  "termsOfServiceUrl": "https://www.goalrace.com/terms"
+}

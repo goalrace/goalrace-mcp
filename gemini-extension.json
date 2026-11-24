@@ -1,0 +1,10 @@
+{
+  "name": "goal-race",
+  "version": "1.0.0",
+  "description": "Search trail, obstacle and HYROX-style races with no account. Sign in to save them, plan your training and log each session.",
+  "mcpServers": {
+    "goal-race": {
+      "httpUrl": "https://mcp.goalrace.com/mcp"
+    }
+  }
+}
