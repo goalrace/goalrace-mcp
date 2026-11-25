@@ -58,23 +58,9 @@ gemini extensions install https://github.com/goalrace/goalrace-mcp
 
 ## Tools
 
-**No account needed**
+Finding races needs no account. The other tools read or change your own race list, calendar, diary and profile, with a free account.
 
-| Tool | What it does |
-|---|---|
-| `search_races` | Upcoming races by place, country, series, month, distance, climb or terrain |
-| `list_race_filters` | The countries, series, distance and climb bands, tags and months search accepts, with counts |
-| `get_race` | One race in full: dates, waves and start times, distances, climb, obstacles, venue, nearest airport, course, past results |
-
-**Free account** (asked only when one of these is used)
-
-| Area | Tools |
-|---|---|
-| Your race list | `save_race`, `add_custom_race`, `remove_race`, `get_trip`, `save_trip_plan` |
-| Calendar and training | `get_calendar`, `get_training_log`, `get_session`, `add_sessions`, `update_session`, `log_session`, `remove_sessions`, `add_training_plan` |
-| Training blocks | `get_blocks`, `add_block`, `update_block`, `remove_block` |
-| Diary | `add_note`, `update_note`, `delete_note`, `get_notes` |
-| Profile | `get_profile`, `update_profile` |
+Every tool, one line each, with what it reads or changes and when it asks first: https://www.goalrace.com/mcp/tools. That page is built from the server's own tool list, so it stays current.
 
 ## Skill
 
